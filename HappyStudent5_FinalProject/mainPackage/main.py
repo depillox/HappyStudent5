@@ -17,4 +17,4 @@ location = decryptLocationData(filePath, 'Larisa Latynina')
 print(location)
 
 
-show_image(r"..\functionsPackage\ProjectPic.jpg") 
+show_image(r"..\functionsPackage\ProjectPicture.jpg") 
